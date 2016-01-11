@@ -1,0 +1,3 @@
+# magento2
+
+Hello, Im new here. I'm actually trying to install magento2 on windows xampp... 
